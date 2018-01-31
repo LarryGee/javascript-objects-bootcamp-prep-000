@@ -1,3 +1,3 @@
 var playlist = {
-  rickross: 'ashton martin music'
+  RickRoss: 'ashton martin music'
 }
