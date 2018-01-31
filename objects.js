@@ -2,4 +2,6 @@ var playlist = {
   RickRoss: 'ashton martin music'
 }
 
-function updatePlaylist
+function updateObjectWithKeyAndValue(obj, key, value) {
+  
+}
