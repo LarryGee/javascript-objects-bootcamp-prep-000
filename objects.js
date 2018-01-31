@@ -1,4 +1,1 @@
-var playlist = {
-  Rick Ross: 'Ashton Martin Music',
-  
-}
+var playlist = {}
