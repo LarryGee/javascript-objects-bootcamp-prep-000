@@ -1,5 +1,5 @@
 var playlist = {
-  RickRoss: 'Ashton Martin Music'
+  Kanye: 'Gold Digger'
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
